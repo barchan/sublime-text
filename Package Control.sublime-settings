@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"DashDoc",
+		"Emmet",
+		"One Dark Color Scheme",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Spacegray",
+		"WordPress"
+	]
+}
